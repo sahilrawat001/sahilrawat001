@@ -10,6 +10,10 @@
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sahilrawat001)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+![counter](https://[YourEndpoint].m.pipedream.net)
+
+
 
 <!--
 **sahilrawat001/sahilrawat001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
