@@ -55,8 +55,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br>
- -![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
-
+ 
 
 
 
