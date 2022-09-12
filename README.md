@@ -9,16 +9,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sahilrawat001)
-<br>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrawat001&repo=Book-My-Show-Clone )
-<br>
-![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
+
+
+
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrawat001&" alt="sahilrawat001" /></p>
 
-//tech stack is here
-
+ 
+ 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sahilrawat001)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrawat001&repo=Book-My-Show-Clone )
+<br>
+ 
+ 
+ 
+ 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,11 +54,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-
-
-
 <br>
- 
+ ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
+
 
 
 
