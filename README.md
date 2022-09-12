@@ -21,7 +21,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sahilrawat001)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilrawat001&repo=Book-My-Show-Clone )
 <br>
- 
+ ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
  
  
  
@@ -57,8 +57,7 @@
 <br>
  -![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
 
-<br>
-![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
+
 
 
 <!--
