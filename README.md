@@ -15,6 +15,9 @@
 <br>
 ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrawat001&" alt="sahilrawat001" /></p>
+
+//tech stack is here
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -50,7 +53,6 @@
 
 <br>
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrawat001&" alt="sahilrawat001" /></p>
 
 
 
