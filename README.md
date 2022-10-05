@@ -3,6 +3,8 @@
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/sahilrawat001?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=sahilrawat001&label=PROFILE VIEWS  &color=red&style=flat" alt="SahilRawat001"/>
+ ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
+
  
 
 - 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
