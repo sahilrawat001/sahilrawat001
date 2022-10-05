@@ -7,10 +7,10 @@
 
  
 
-- 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
-- 🤯 I’m currently learning advanced **DataStructures and Algorithms**
+- 👨‍💻 I’m currently working on my **Backend Skills** and **Problem Solving Skills**.
+- 🤯 I’m currently learning   **DataStructures and Algorithms**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
-- 👨‍🏭 **Mechanical Graduate** and **Software Developer** 
+- 👨‍🏭 **Computer Sceince Graduate** and **Software Developer** 
 
 <a href="https://leetcode.com/sahilrawat001/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
