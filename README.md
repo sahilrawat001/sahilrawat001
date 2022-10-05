@@ -2,7 +2,7 @@
 # **Hello World** !!! 🙌 
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/sahilrawat001?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=sahilrawat001&label=PROFILE VIEWS  &color=red&style=flat" alt="SahilRawat001"/>
+![GitHub followers](https://img.shields.io/github/followers/sahilrawat001?style=flat&label=FOLLOWERS)
  ![counter]( https://en2hjd3uoenb4jc.m.pipedream.net)
 
  
