@@ -1,5 +1,14 @@
 
-# **Hello World** !!! 🙌 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
+ # **Hello World** !!! 🙌 
+
+  <h1>Hi, I'm Sahil Rawat</h1>
+    
+</div>
+<br>
+
+
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/sahilrawat001?style=flat&label=FOLLOWERS)
