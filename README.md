@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+  <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
