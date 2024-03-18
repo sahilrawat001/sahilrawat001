@@ -8,7 +8,6 @@
     
 </div>
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/sahilrawat001?theme=dark&font=Inder)
 
 
 <!-- Followers -->
@@ -100,3 +99,5 @@ Here are some ideas to get you started:
 
 
 -->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sahilrawat001?theme=dark&font=Inder)
